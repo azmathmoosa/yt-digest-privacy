@@ -48,5 +48,5 @@ YT Digest respects your privacy. This policy explains what data we collect, how 
 ## Contact
 
 If you have questions about this Privacy Policy, you may contact us at:\
-📧 **azmathmoosa\@gmail.com**
+📧 ![Email](email.png)
 
